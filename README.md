@@ -1,0 +1,2 @@
+# ApplicationKillTest
+当应用进程被kill掉之后，任然可以通过广播接收器接收到广播
